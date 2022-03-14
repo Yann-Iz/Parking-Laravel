@@ -1,7 +1,7 @@
 .bouton1 {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745;
+    background-color: rgba(0, 17, 255, 0.952);
+    border-color: rgba(0, 17, 255, 0.952);
     display: inline-block;
     font-weight: 400;
     text-align: center;

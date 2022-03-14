@@ -1,5 +1,5 @@
 .navbar {
-    background: #b7f88b86;
+    background: rgba(0, 17, 255, 0.525);
 }
 
 .login-form {
@@ -10,7 +10,7 @@
 
 .login-form form {
     margin-bottom: 15px;
-    background: #b7f88b86;
+    background: rgba(0, 17, 255, 0.525);
     padding: 30px;
     border-radius: 25px;
 }
