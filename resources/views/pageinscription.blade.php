@@ -16,13 +16,13 @@ Log::debug($error);
     @elseif($error ==  2)
         <center>
             <p class="bg-light border border-danger">
-                L'e-mail a déja était utilisé
+                L'e-mail a déjà été utilisé
             </p>
         </center>
     @elseif($error ==  3)
         <center>
             <p class="bg-light border border-danger">
-                Les mots de passe ne sont pas identiques
+                Les mot de passe ne correspondent pas
             </p>
         </center>
     @endif

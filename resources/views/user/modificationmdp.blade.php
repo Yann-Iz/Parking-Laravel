@@ -15,7 +15,7 @@
         </p>
     @elseif($error == 2)
         <p class="bg-light border border-primary">
-            Mot de passe changer
+            Mot de passe modifié
         </p>
     @endif
     <div class="container">

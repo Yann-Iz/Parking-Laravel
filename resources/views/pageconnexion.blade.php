@@ -13,11 +13,11 @@
         </p>
     @elseif(isset($error) && $error == 4)
         <p class="bg-light border border-primary">
-            Demande d'inscription envoyé
+            Demande d'inscription envoyée
         </p>
     @elseif(isset($error) && $error == 5)
         <p class="bg-light border border-primary">
-            La demande de modification de mot de passe à était envoyée
+            La demande de modification de mot de passe a été envoyée
         </p>
     @endif
     <form action="/connexion" method="post">
